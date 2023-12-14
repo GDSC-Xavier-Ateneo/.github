@@ -22,7 +22,12 @@ Keep up-to-date with our latest activities, events, and announcements. Follow us
 
 ## **Connect With Us**
 
-    Website: https://www.facebook.com/gdscxavier
+    Website: https://gdsc.community.dev/xavier-university-ateneo-de-cagayan/
+    Facebook: https://www.facebook.com/gdscxavier
+    Twitter: https://twitter.com/dscxavier_
+    LinkedIn: https://twitter.com/dscxavier_
+    Instagram: https://www.instagram.com/dscxavier_/
     Email: gdsc@my.xu.edu.ph 
+    Discord: https://discord.gg/tY4e3RcK
 
 We're excited to have you as part of the Google Developers Student Club Xavier Ateneo community! Let's innovate, collaborate, and build amazing things together. 🚀✨
